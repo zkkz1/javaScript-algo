@@ -1,3 +1,4 @@
+// https://leetcode.cn/problems/count-special-integers/solution/shu-wei-dp-mo-ban-by-endlesscheng-xtgx/
 var countSpecialNumbers = function (n) {
   let str = String(n);
   let len = str.length;
